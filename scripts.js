@@ -12,7 +12,7 @@ if (value > 0) {
     console.log('Liczba równa się 0');
 }
 
-prompt("Liczba jest większa od 0");
+alert("Liczba jest większa od 0");
 
 // secend part
 
@@ -24,4 +24,4 @@ var value = "4";
 
 var value = a>b && a<b ? 'negative' : 'positive';
 console.log(value);
-prompt("positive");
+alert("positive");
